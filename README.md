@@ -1,2 +1,4 @@
 # ongoing-index
-Personal website and ongoing index of technical interests.
+Source code for my personal website and ongoing technical index.
+
+https://www.krionx.com
