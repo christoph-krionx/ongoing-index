@@ -365,6 +365,23 @@ h1 {
   font-weight: 620;
 }
 
+.detail-item {
+  display: grid;
+  gap: 2px;
+}
+
+.detail-item b {
+  color: var(--quiet);
+  font-size: 10px;
+  font-weight: 500;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+}
+
+.detail-item span {
+  color: var(--text);
+}
+
 .details .muted {
   color: var(--muted);
 }
